@@ -1,4 +1,4 @@
-<!--This is Configuration for CodeArtifact 04/21/2025-->
+<!--This is Configuration for CodeArtifact 04/23/2025-->
 <settings>
 <servers>
   <server>
@@ -7,6 +7,7 @@
     <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
   </server>
 </servers>
+
 <profiles>
   <profile>
     <id>nextwork-nextwork-devops-cicd</id>
@@ -21,6 +22,7 @@
     </repositories>
   </profile>
 </profiles>
+
 <mirrors>
   <mirror>
     <id>nextwork-nextwork-devops-cicd</id>
