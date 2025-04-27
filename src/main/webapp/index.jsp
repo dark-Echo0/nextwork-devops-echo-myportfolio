@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -390,8 +391,10 @@ nav .fa-solid{
 }
     </style>
 </head>
+-->
+<!--
 <body>
-    <!--header-->
+
     <div id="header">
         <div class="container">
             <nav>
@@ -412,7 +415,7 @@ nav .fa-solid{
             </div>
         </div>
     </div>
-    <!--about-->
+
     <div id="about">
         <div class="container">
             <div class="row">
@@ -459,7 +462,7 @@ nav .fa-solid{
             </div>
         </div>
     </div>
-    <!--Services-->
+
     <div id="services">
         <div class="container">
             <h1 class="sub-title">My Services</h1>
@@ -485,7 +488,7 @@ nav .fa-solid{
             </div>
         </div>
     </div>
-    <!---Portfolio-->
+   
     <div id="portfolio">
         <div class="container">
             <h1 class="sub-title">My Work</h1>
@@ -518,7 +521,7 @@ nav .fa-solid{
             <a href="#" class="btn">See More</a>
         </div>
     </div>
-    <!--Contact-->
+    
     <div id="contact">
         <div class="container">
             <div class="row">
@@ -592,5 +595,13 @@ nav .fa-solid{
             .catch(error => console.error('Error!', error.message))
         })
       </script>
+</body>
+</html>
+-->
+
+<html>
+<body>
+    <h1>Hello, Nextwork!! This is Echo</h1>
+    <p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
 </body>
 </html>
