@@ -1,6 +1,4 @@
 <!--This is Configuration for CodeArtifact 04/27/2025-->
-<!--this is second-->
-<settings>
 <servers>
   <server>
     <id>nextwork-nextwork-devops-cicd</id>
